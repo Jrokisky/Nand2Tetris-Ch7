@@ -14,6 +14,9 @@
  *      	PUSH and other constants should have been used more to 
  *      	increase readability
  *      -> I don't believe I'm taking advantage of Javascripts features.
+ * 	-> No error handling has been implemented. The goal of the
+ * 		project was to gain an understanding of translating vm
+ * 		code to assembly.
  ****************************************************/
 
 
