@@ -3,7 +3,7 @@
  * Date:   July 2016
  * Info:   This is an implementation of the project described in Chapter 7 of 
  * 	    the online course From Nand To Tetris
- * Post-Mordem:
+ * Post-Mortem:
  *      -> Function names are not concise. Ex: translate, parser
  *      -> Translate function is one giant set of if else statements.
  *      	Perhaps switch or case statements would be easier to read
